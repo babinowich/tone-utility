@@ -19,6 +19,12 @@ npm install
 
 Done!
 
+## Add Tone Analyzer credentials
+
+Create a free Tone Analyzer service by signing into your IBM Cloud account.  You can use this [quick link](https://www.ibm.com/watson/services/tone-analyzer/) which will redirect you to the Tone Analyzer service or IBM Cloud signup if you do not have an account.
+
+Add your service credentials of your newly created instance to line 15 and 16 on the tone.js file.
+
 ## Prepare document for analysis
 
 This utility consumes .txt files only.  Save the .txt file you wish to analyze to the same folder as this application.  The folder structure must be flat (no nested directories).
