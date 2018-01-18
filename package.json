@@ -1,0 +1,16 @@
+{
+  "name": "tone.utils",
+  "version": "1.0.0",
+  "description": "CLI examples for Tone",
+  "main": "tone.js",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "watson-developer-cloud": "^2.4.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kyle Babinowich",
+  "license": "ISC"
+}
